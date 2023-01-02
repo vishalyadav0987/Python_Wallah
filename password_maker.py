@@ -26,7 +26,7 @@ else:
     if user<12:
         print("THE MINIMUM LENGTH OF PASSWORD IS 12")
     else:
-        print(l1)
+        # print(l1)
         s=r.shuffle(l1)
         for j in l1:
             print(j,end="")
