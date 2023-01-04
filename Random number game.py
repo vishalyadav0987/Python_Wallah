@@ -15,7 +15,7 @@ while True:
         elif p!=x:
             print("Btter Luck Next Time:lose the game!")
     else:
-        print("maa chudao")  
+        print("Ok Play Next Time")  
         break        
              
         
