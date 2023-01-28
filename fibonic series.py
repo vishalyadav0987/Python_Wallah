@@ -6,7 +6,8 @@ l=[]
 if x<=0:
     print("only gives postive values")
 elif x==1:
-    print(a)
+    l.append(a)
+    print(l)
 else:
     while z<x:
         l.append(a)
